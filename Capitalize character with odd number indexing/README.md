@@ -6,4 +6,5 @@
 + Python
 
 ### Execute the file:
-+ run `capitalize_character.py`
++ using basic script run: `capitalize_character.py`
++ using enumerate function run: `capitalize_using_enumerate.py`
