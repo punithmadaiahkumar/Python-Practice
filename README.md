@@ -6,3 +6,4 @@
 + Yield In Python [Code](Yield%20in%20python)
 + Date without leading zero [Code](Strftime%20date%20without%20leading%20zero)
 + Sum Integer from List [Code](sum%20the%20numbers%20from%20the%20list)
++ Concat String [Code](Concat%20String)
