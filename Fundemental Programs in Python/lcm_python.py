@@ -6,4 +6,4 @@ def lcm(a,b):
         lcm += a
     print(f"LCM of {a} and {b} us {lcm}.")
 
-lcm(6,9)
+lcm(45,60)
